@@ -20,7 +20,7 @@ This application uses **Streamlit** to create a web-based tool for analyzing CSV
   - `pandas`
   - `python-dotenv`
   - `requests`
-- **GroqCloud API Key and URL**: Set up in an `.env` file (Both the files should be in same folder).
+- **GroqCloud API Key and URL**: Set up in an `.env` file (Both the files {python file & .env file} should be in same folder).
 
 ---
 
